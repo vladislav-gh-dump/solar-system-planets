@@ -1,1 +1,2 @@
-# solar-system-planets
+# Solar system planets
+
